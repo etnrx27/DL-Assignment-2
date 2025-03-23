@@ -1,5 +1,5 @@
 # Sentiment Analysis Google Reviews Model
-A sentimenty analysis model was built and trained using google reviews to predict the sentiment of an input. 
+A sentiment analysis model was built and trained using google reviews to predict the sentiment of an input. 
 
 # Dataset
 Using Macdonald's Goolgle playstore app reviews as a dataset. 
